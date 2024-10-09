@@ -1,0 +1,99 @@
+{
+    "info": {
+      "id": "330928",
+      "name": "Five Star Chicken",
+      "cloudinaryImageId": "kmvaa6sngfajdqdbjia7",
+      "locality": "T Nagar",
+      "areaName": "T. Nagar",
+      "costForTwo": "₹200 for two",
+      "cuisines": [
+        "Chinese",
+        "Thai"
+      ],
+      "avgRating": 4.4,
+      "parentId": "376",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "217",
+      "sla": {
+        "deliveryTime": 35,
+        "lastMileTravel": 3.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "3.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2024-09-05 22:50:00",
+        "opened": true
+      },
+      "badges": {
+        
+      },
+      "isOpen": true,
+      "aggregatedDiscountInfoV2": {
+        
+      },
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            
+          },
+          "textBased": {
+            
+          },
+          "textExtendedBadges": {
+            
+          }
+        }
+      },
+      "orderabilityCommunication": {
+        "title": {
+          
+        },
+        "subTitle": {
+          
+        },
+        "message": {
+          
+        },
+        "customIcon": {
+          
+        }
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {
+            
+          },
+          "video": {
+            
+          }
+        }
+      },
+      "reviewsSummary": {
+        
+      },
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {
+        
+      },
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/chennai/five-star-chicken-t-nagar-rest330928",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  }
